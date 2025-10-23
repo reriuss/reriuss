@@ -9,14 +9,13 @@
 - 🎓 **Studies:** Computer Systems Engineering
 - 🏫 **University:** [Tecnologico de Estudios Superiores de Ecatepec](https://tese.edomex.gob.mx/) 📚
 
-I'm a systems engineering student passionate about backend development, databases, and mobile applications. I enjoy discovering new technologies and programming languages ​​and applying them to projects.
+Systems Engineering student focused on building robust backend solutions, managing databases, and creating mobile applications. I enjoy discovering and mastering new languages and technologies through challenging projects.
 
 ---
 
 ### 🖥️ Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
