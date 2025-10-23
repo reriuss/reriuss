@@ -42,17 +42,17 @@ I'm a systems engineering student passionate about backend development, database
 
 I'm always open to networking and professional opportunities:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eliu-hernandez-691041374/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliu-hernandez-691041374/)
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub stats]()
+![GitHub stats](https://readme-stats-git-dependabot-npmandyarne-eddee2-jsncars-projects.vercel.app/api?username=reriuss&show_icons=true&hide_rank=true&theme=radical)
 
 <div>
 
-![Snake animation]()
+![Snake animation](https://github.com/reriuss/reriuss/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
